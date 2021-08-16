@@ -1,4 +1,4 @@
-
+*.pyc
 _pycache_/
 data/
 image_dir/
